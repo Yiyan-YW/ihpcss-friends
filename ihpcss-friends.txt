@@ -1,2 +1,8 @@
 * Elsa 
 - LLNL
+* Fizzy
+- GATech
+* Satoshi
+- Kyushu University
+* Furkan
+- Oklahoma State University
