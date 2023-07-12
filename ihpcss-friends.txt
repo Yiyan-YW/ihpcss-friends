@@ -1,7 +1,7 @@
 * Elsa 
-- LLNL
+- LLNL (knitting)
 * Fizzy
-- GATech
+- Georgia Tech
 * Satoshi
 - Kyushu University
 * Furkan
